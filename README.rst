@@ -1,9 +1,5 @@
-Template for the Read the Docs tutorial
+CLI Auth - Security at your Fingertips
 =======================================
+Interactive Command-line Authentication Server Provided by CLI Auth. 
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+We believe in a safe and secure web. That's why we created CLI Auth, which lets you to better authenticate your clients without hiding code.
