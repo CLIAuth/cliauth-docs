@@ -1,9 +1,11 @@
-Welcome to Lumache's documentation!
+Welcome to CLI Auth's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
+We believe in a safe and secure web. That's why we
+created **CLI Auth**, which lets you to better 
+interactively authenticate your clients without hiding code.
+
+It uses cryptographic signatures to ensure data security
 and offers a *simple* and *intuitive* API.
 
 Check out the :doc:`usage` section for further information, including
