@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'CLI UTH'
+project = 'CLI AUTH'
 copyright = '2023, py660'
 author = 'py660'
 
