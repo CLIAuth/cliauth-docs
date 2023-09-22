@@ -6,14 +6,12 @@ created **CLI Auth**, which lets you to better
 interactively authenticate your clients without hiding code.
 
 It uses cryptographic signatures to ensure data security
-and offers a *simple* and *intuitive* API.
+and offers a *simple* and *intuitive* API, along with an
+intuitive access control interface and extensive use cases.
 
 Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
+how to :ref:`installation` the project, or refer to the :ref:`quickstart`
+guide for simple install instructions.
 
 Contents
 --------
@@ -22,3 +20,13 @@ Contents
 
    usage
    api
+
+
+Features include:
+* Cross-platform support, including Python and Node.JS.
+* Secure authentication using asymmetrical signatures and user-friendly token revocation.
+* One-click login flow.
+* Completely modular; Allows you to extend its functionality.
+* Bring-your-own webserver.
+* Open source code and thourough documentation.
+* 99% authentication server uptime.

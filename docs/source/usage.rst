@@ -1,6 +1,15 @@
 Usage
 =====
 
+.. _quickstart:
+
+Quickstart
+-----------
+
+You can either fork the following starter projects or follow the easy install guide.
+1. Fork starter projects
+You can choose to use either the 
+
 .. _installation:
 
 Installation
