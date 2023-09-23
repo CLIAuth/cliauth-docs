@@ -9,10 +9,10 @@ Quickstart
 You can either fork the following starter projects or follow the easy install guide.
 
 1. Fork our starter projects
-
-You can fork the following projects to get started. 
-Secure Database Proxy: https://replit.com/@cliauth/CLIAuth-Database-Server
-InkedIn Database Client: https://replit.com/@cliauth/CLIAuth-InkedIn-Client
+   You can fork the following projects to get started.  
+   
+   Secure Database Proxy: https://replit.com/@cliauth/CLIAuth-Database-Server  
+   InkedIn Database Client: https://replit.com/@cliauth/CLIAuth-InkedIn-Client
 
 
 
