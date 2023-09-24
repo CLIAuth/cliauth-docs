@@ -9,8 +9,7 @@ It uses cryptographic signatures to ensure data security
 and offers a *simple* and *intuitive* API, along with an
 intuitive access control interface and extensive use cases.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project, or refer to the :ref:`quickstart`
+Check out the :doc:`usage` section for further information, or refer to the :ref:`quickstart`
 guide for simple install instructions.
 
 Contents
@@ -19,7 +18,6 @@ Contents
 .. toctree::
 
    usage
-   api
 
 
 Features include:
