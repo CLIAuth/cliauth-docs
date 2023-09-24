@@ -21,10 +21,10 @@ Contents
 
 
 Features include:
-* Cross-platform support, including Python and Node.JS.
-* Secure authentication using asymmetrical signatures and user-friendly token revocation.
-* One-click login flow.
-* Completely modular; Allows you to extend its functionality.
-* Bring-your-own webserver.
-* Open source code and thourough documentation.
-* 99% authentication server uptime.
+| * Cross-platform support, including Python and Node.JS.
+| * Secure authentication using asymmetrical signatures and user-friendly token revocation.
+| * One-click login flow.
+| * Completely modular; Allows you to extend its functionality.
+| * Bring-your-own webserver.
+| * Open source code and thourough documentation.
+| * 99% authentication server uptime.
