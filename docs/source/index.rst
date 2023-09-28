@@ -18,6 +18,8 @@ Contents
 .. toctree::
 
    usage
+   python
+   nodejs
 
 
 Features include:

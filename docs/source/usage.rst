@@ -23,4 +23,10 @@ You can fork the following starter projects to get started.
 CLIAuth Protocol
 -----------------
 
-Our protocol is immensely complex, so we have put off the task of writing documentation for it until later along the production line.
+Our protocol is immensely complex, so we have put off the task of writing
+documentation for it until later along the production line. Instead, we have
+created a collection of flowcharts to visually explain our authentication process.
+
+.. image:: images/1.png
+  :width: 400
+  :alt: Alternative text
